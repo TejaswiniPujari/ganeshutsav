@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/ganeshutsav/static/css/main.073c9b0a.css",
-    "main.js": "/ganeshutsav/static/js/main.f51baf58.js",
-    "static/js/787.f49114be.chunk.js": "/ganeshutsav/static/js/787.f49114be.chunk.js",
-    "static/media/logo.svg": "/ganeshutsav/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ganeshutsav/static/css/main.5a75b11c.css",
+    "main.js": "/ganeshutsav/static/js/main.d96724cb.js",
+    "static/media/bg.jpg": "/ganeshutsav/static/media/bg.9188fa937dfbddd0e357.jpg",
+    "static/media/header.png": "/ganeshutsav/static/media/header.2925532dc971ef55550b.png",
+    "static/media/audioRoom.png": "/ganeshutsav/static/media/audioRoom.5599d8e2ffd125297929.png",
+    "static/media/scheduleBg.png": "/ganeshutsav/static/media/scheduleBg.fc5f6dcdaaf74d68584a.png",
+    "static/media/top3.png": "/ganeshutsav/static/media/top3.b3b5a1ef3362323d6d26.png",
+    "static/media/top2.png": "/ganeshutsav/static/media/top2.fa1e40652bb37d7dd771.png",
+    "static/media/top1.png": "/ganeshutsav/static/media/top1.d5870e137ef0e068c834.png",
+    "static/media/Guide Name Unit.png": "/ganeshutsav/static/media/Guide Name Unit.47ab8954efb31efd11f8.png",
+    "static/media/eventRewards.png": "/ganeshutsav/static/media/eventRewards.a1cc5dde6b6089f221f0.png",
+    "static/media/PKsuperstarprofileframe.png": "/ganeshutsav/static/media/PKsuperstarprofileframe.61fc5aded6498b3501a4.png",
+    "static/media/PkSuperstarbadge.png": "/ganeshutsav/static/media/PkSuperstarbadge.ae07231a0f0a83cad37f.png",
+    "static/media/leaderBoardBg.png": "/ganeshutsav/static/media/leaderBoardBg.a00f80bb4993c0bc7b5a.png",
+    "static/media/guideBg.png": "/ganeshutsav/static/media/guideBg.30845a8bbf05db470c26.png",
+    "static/media/furyProfileFrame.png": "/ganeshutsav/static/media/furyProfileFrame.2319f62cca20e4d4f892.png",
+    "static/media/AudiothemeofPKSuperStar.png": "/ganeshutsav/static/media/AudiothemeofPKSuperStar.57de6ab599318207722b.png",
+    "static/media/leaderTitle.png": "/ganeshutsav/static/media/leaderTitle.5605afab9de40678c5d5.png",
+    "static/media/eventRewardTitle.png": "/ganeshutsav/static/media/eventRewardTitle.cc39a7f474ce41eee059.png",
     "index.html": "/ganeshutsav/index.html",
-    "main.073c9b0a.css.map": "/ganeshutsav/static/css/main.073c9b0a.css.map",
-    "main.f51baf58.js.map": "/ganeshutsav/static/js/main.f51baf58.js.map",
-    "787.f49114be.chunk.js.map": "/ganeshutsav/static/js/787.f49114be.chunk.js.map"
+    "main.5a75b11c.css.map": "/ganeshutsav/static/css/main.5a75b11c.css.map",
+    "main.d96724cb.js.map": "/ganeshutsav/static/js/main.d96724cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f51baf58.js"
+    "static/css/main.5a75b11c.css",
+    "static/js/main.d96724cb.js"
   ]
 }
