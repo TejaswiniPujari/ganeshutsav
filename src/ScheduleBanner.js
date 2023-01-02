@@ -1,10 +1,9 @@
 import React from "react";
 import eventTitle from './img/scheduleTitle.png';
 import vsUnit from './img/Vs-min.png';
-import './style.css';
+import './style/style.css';
 
-const ScheduleBanner = ({data}) => {
-
+const ScheduleBanner = ({ data }) => {
     return (<div className="schedule">
         <div className="eventTitle schedule-title">
             <img src={eventTitle} alt="" width="100%" />
@@ -21,15 +20,15 @@ const ScheduleBanner = ({data}) => {
                     </tr>
                     {data.map(item =>
                         <tr>
-                            <td>{item.date}</td>
+                            <td>{item.Date}</td>
                             <td>
-                                {item.name1}<br />ID:<a href={item.link1}>{item.id1}</a>
+                                {item.Player1}<br />ID:<a href={item.Link1}>{item.Id1}</a>
                             </td>
                             <td><img src={vsUnit} alt="" /></td>
                             <td>
-                                {item.name2}<br />ID:<a href={item.link2}>{item.id2}</a>
+                                {item.Player2}<br />ID:<a href={item.Link2}>{item.id2}</a>
                             </td>
-                            <td>{item.time}</td>
+                            <td>{item.Time}</td>
                         </tr>
                     )}
                 </tbody>

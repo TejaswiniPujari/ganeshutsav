@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import guidBtn from './img/GuideButton.png';
 import closeBtn from './img/Guide Close Button.png';
 import guidText from './img/Guide Name Unit.png';
-import './style.css';
+import './style/style.css'
 
 const GuidBtn = () => {
     const [visible, setVisible] = useState(false);

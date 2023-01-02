@@ -5,7 +5,7 @@ button {
 }
 
 .app {
-    background-image: url(./img/bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -36,7 +36,7 @@ button {
 }
 
 .giuidline-bg {
-    background-image: url(./img/guideBg.png);
+    background-image: url(../img/guideBg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -78,6 +78,8 @@ button {
 .header-date-txt {
     width: 60%;
     margin: 0 auto;
+    position: relative;
+    top: -5vw;
 }
 
 .eventTitle {
@@ -105,7 +107,7 @@ button {
 
 /* ----reward page---- */
 .reward {
-    background-image: url(./img/eventRewards.png);
+    background-image: url(../img/eventRewards.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 95vw;
@@ -161,7 +163,7 @@ button {
 
 /* ----schedule page---- */
 .schedule {
-    background-image: url(./img/scheduleBg.png);
+    background-image: url(../img/scheduleBg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 95vw;
@@ -208,9 +210,17 @@ button {
     width: 2vw;
 }
 
+.error-txt{
+    padding: 30vw 0;
+    text-align: center;
+    font-size: 6vw;
+    font-weight: bold;
+    color: red;
+}
+
 /*------ leaderboard page----- */
 .leaderboard {
-    background-image: url(./img/leaderBoardBg.png);
+    background-image: url(../img/leaderBoardBg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 95vw;
@@ -232,13 +242,13 @@ button {
 }
 
 .r1 {
-    background-image: url(./img/leaderStrip.png);
+    background-image: url(../img/leaderStrip.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .leaderborad-frame {
-    background-image: url(./img/leaderFrame.png);
+    background-image: url(../img/leaderFrame.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -281,11 +291,11 @@ button {
 }
 
 .leaderStrip {
-    background-image: url(./img/leaderStrip.png);
+    background-image: url(../img/leaderStrip.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     display: grid;
-    grid-template-columns: 10% 10% auto 30%;
+    grid-template-columns: 10% 10% auto 25%;
     width: 90%;
     margin: 0 auto;
     padding: 1vw;

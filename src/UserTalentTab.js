@@ -3,7 +3,7 @@ import userSelectedBtn from './img/UserButtonSelect.png';
 import talentUnselectedBtn from './img/TalentButtonDeselect.png'
 import userUnselectedBtn from './img/UserButtonDeselect.png';
 import talentSelectedBtn from './img/TalentButtonSelect.png'
-import './style.css'
+import './style/style.css'
 
 const UserTalentTab = ({ setSelectedTab }) => {
     const [userBtnImg, setUserBtnImg] = useState(userSelectedBtn);

@@ -11,7 +11,7 @@ import fifthRank from './img/5th-rank.png';
 
 import rightArrow from './img/right.png';
 import leftArrow from './img/left.png';
-import './style.css';
+import './style/style.css'
 
 const UserRewards = () => {
     const [slideNumber, setSlidNumber] = useState(0);

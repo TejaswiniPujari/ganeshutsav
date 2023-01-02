@@ -5,7 +5,7 @@ import AudiothemeofPKSuperStar from './img/AudiothemeofPKSuperStar.png';
 import PKsuperstarprofileframe from './img/PKsuperstarprofileframe.png'
 import rightArrow from './img/right.png';
 import leftArrow from './img/left.png';
-import './style.css';
+import './style/style.css'
 
 const RewardBannerRound2 = () => {
     const [slideNumber, setSlidNumber] = useState(0);

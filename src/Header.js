@@ -1,7 +1,7 @@
 import React from "react";
 import headerimg from './img/header.png';
 import dateTxt from './img/dateTxt.png';
-import './style.css'
+import './style/style.css'
 
 const Header = () => {
   return (

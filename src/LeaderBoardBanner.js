@@ -1,7 +1,7 @@
 import React from "react";
 import eventTitle from './img/leaderTitle.png';
 import coin from './img/coin.png';
-import './style.css';
+import './style/style.css'
 
 const ScheduleBannerRound1 = ({ data }) => {
   return (

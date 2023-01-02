@@ -14,7 +14,7 @@ import user3Round1 from './img/User/3rd user.png';
 import user1Round2 from './img/User/1st user.png';
 import user2Round2 from './img/User/2nd user.png';
 import user3Round2 from './img/User/3rd user.png';
-import './style.css'
+import './style/style.css'
 
 const LeaderBoard = () => {
     const [selectedTab, setSelectedTab] = useState('user');

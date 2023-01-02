@@ -4,7 +4,7 @@ import audioFrame from './img/audioRoom.png';
 import profileFrame from './img/furyProfileFrame.png';
 import rightArrow from './img/right.png';
 import leftArrow from './img/left.png';
-import './style.css';
+import './style/style.css'
 
 const RewardBannerRound1 = () => {
     const [slideNumber, setSlidNumber] = useState(0);
