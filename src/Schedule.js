@@ -14,7 +14,7 @@ const Schedule = () => {
         fetchData('A10:H15', (data) => setScheduleRound2(data));
     }, [])
 
-
+console.log('schedule')
     return (<div>
         {(scheduleRound1.length || scheduleRound2.length) &&
             <>
