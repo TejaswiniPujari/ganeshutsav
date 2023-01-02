@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ganeshutsav/static/css/main.5a75b11c.css",
-    "main.js": "/ganeshutsav/static/js/main.d96724cb.js",
+    "main.css": "/ganeshutsav/static/css/main.d251edc7.css",
+    "main.js": "/ganeshutsav/static/js/main.04798ea9.js",
     "static/media/bg.jpg": "/ganeshutsav/static/media/bg.9188fa937dfbddd0e357.jpg",
     "static/media/header.png": "/ganeshutsav/static/media/header.2925532dc971ef55550b.png",
     "static/media/audioRoom.png": "/ganeshutsav/static/media/audioRoom.5599d8e2ffd125297929.png",
@@ -20,11 +20,11 @@
     "static/media/leaderTitle.png": "/ganeshutsav/static/media/leaderTitle.5605afab9de40678c5d5.png",
     "static/media/eventRewardTitle.png": "/ganeshutsav/static/media/eventRewardTitle.cc39a7f474ce41eee059.png",
     "index.html": "/ganeshutsav/index.html",
-    "main.5a75b11c.css.map": "/ganeshutsav/static/css/main.5a75b11c.css.map",
-    "main.d96724cb.js.map": "/ganeshutsav/static/js/main.d96724cb.js.map"
+    "main.d251edc7.css.map": "/ganeshutsav/static/css/main.d251edc7.css.map",
+    "main.04798ea9.js.map": "/ganeshutsav/static/js/main.04798ea9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a75b11c.css",
-    "static/js/main.d96724cb.js"
+    "static/css/main.d251edc7.css",
+    "static/js/main.04798ea9.js"
   ]
 }
